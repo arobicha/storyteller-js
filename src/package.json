@@ -2,11 +2,9 @@
   "name": "storyteller-js",
   "version": "1.0.0",
   "description": "A framework for telling stories online",
-  "main": "index.js",
   "dependencies": {
     "bulma": "^0.4.0",
     "draft-js": "^0.10.0",
-    "draft-js-export-html": "^0.5.2",
     "es6-shim": "^0.35.3",
     "font-awesome": "^4.7.0",
     "react": "^15.4.2",
