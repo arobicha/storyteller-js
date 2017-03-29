@@ -1,0 +1,29 @@
+{
+  "name": "storyteller-js",
+  "version": "1.0.0",
+  "description": "A framework for telling stories online",
+  "main": "index.js",
+  "dependencies": {
+    "draft-js": "^0.10.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arobicha/storyteller-js.git"
+  },
+  "keywords": [
+    "gaming",
+    "storytelling"
+  ],
+  "author": "Adam Robichaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arobicha/storyteller-js/issues"
+  },
+  "homepage": "https://github.com/arobicha/storyteller-js#readme"
+}
